@@ -1,0 +1,32 @@
+div h1{
+  margin-left: 45 40;
+  padding: auto;;
+  text-align: center;
+  
+}
+.box {
+  border: 3px inset rgb(9, 9, 9);
+  padding: 100px;
+  margin-right: 400px;
+  margin-left: 200px;
+  align-items: center;
+  width: 1000px;
+  height: 1099px;
+}
+
+.box h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  display: inline;
+}
+ 
+.box p::first-letter{
+
+    font-size: 300%;
+    color: rgb(237, 177, 26);
+}
+.box p{
+  font-family: 'Comfortaa', cursive;
+    font-size: 30px;
+    
+}
